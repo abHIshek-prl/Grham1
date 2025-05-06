@@ -42,7 +42,7 @@ import imgbedroom10 from '../assets/showcase/Bed room/bedroom-10.jpg'
 import imgbedroom11 from '../assets/showcase/Bed room/bedroom-11.jpg'
 import imgbedroom12 from '../assets/showcase/Bed room/bedroom-12.jpg'
 
-import imgkichen1 from '../assets/showcase/Kitchen/Kitchen-1.jpg'
+
 import imgkichen2 from '../assets/showcase/Kitchen/Kitchen-2.jpg'
 import imgkichen3 from '../assets/showcase/Kitchen/Kitchen-3.jpg'
 import imgkichen4 from '../assets/showcase/Kitchen/Kitchen-4.jpg'
@@ -115,7 +115,7 @@ const allImages = [
   { src: imgbedroom11, category: 'Bedroom' },
   { src: imgbedroom12, category: 'Bedroom' },
   
-  { src: imgkichen1, category: 'Kitchen' },
+  
   { src: imgkichen2, category: 'Kitchen' },
   { src: imgkichen3, category: 'Kitchen' },
   { src: imgkichen4, category: 'Kitchen' },

@@ -20,9 +20,7 @@ function Footer() {
                         <a href="/about" className="hover:text-gray-400">
                             About
                         </a>
-                        <a href="/work" className="hover:text-gray-400">
-                            Work
-                        </a>
+                        
                         <a href="/gallery" className="hover:text-gray-400">
                             Gallery
                         </a>
@@ -66,7 +64,7 @@ function Footer() {
                     </div>
                 </div>
 
-                {/* Bottom Section */}
+                
                 <div className="mt-8 text-xs text-center text-[#d2d2d2]">
                     &copy; {new Date().getFullYear()} GRHAM Interior & Furnitures. All rights reserved.
                 </div>

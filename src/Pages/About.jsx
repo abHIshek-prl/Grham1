@@ -25,7 +25,7 @@ function About() {
       <Navbar />
       <section className="flex flex-col items-center justify-center w-full px-6 py-12 bg-gray-100 md:py-16 lg:py-20">
         <div className="max-w-6xl overflow-hidden bg-white shadow-lg rounded-xl md:flex">
-          {/* Text Section */}
+          
           <div className="w-full p-6 text-gray-700 md:w-1/2 md:p-12">
             <h2 className="text-3xl font-extrabold text-gray-900 md:text-4xl">
               ABOUT <span className="text-[#c0a06c]">US</span>
@@ -41,7 +41,7 @@ function About() {
             </p>
           </div>
 
-          {/* Image Section */}
+          
           <div className="w-full md:w-1/2">
             <img src={AboutImage} alt="About Graham Builders" className="object-cover w-full h-full" />
           </div>

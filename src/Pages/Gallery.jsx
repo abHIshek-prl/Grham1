@@ -30,54 +30,53 @@ import imgliving9 from '../assets/showcase/LivingRoom/living-9.jpg';
 import imgliving10 from '../assets/showcase/LivingRoom/living-10.jpg';
 import imgliving11 from '../assets/showcase/LivingRoom/living-11.jpg';
 
-import imgBedroom1 from '../assets/showcase/Bedroom/bedroom-1.jpg';
-
-import imgbedroom2 from '../assets/showcase/BedRoom/bedroom-2.jpg'
-import imgbedroom3 from '../assets/showcase/BedRoom/bedroom-3.jpg'
-import imgbedroom4 from '../assets/showcase/BedRoom/bedroom-4.jpg'
-import imgbedroom5 from '../assets/showcase/BedRoom/bedroom-5.jpg'
-import imgbedroom6 from '../assets/showcase/BedRoom/bedroom-6.jpg'
-import imgbedroom7 from '../assets/showcase/BedRoom/bedroom-7.jpg'
-import imgbedroom8 from '../assets/showcase/BedRoom/bedroom-8.jpg'
-import imgbedroom9 from '../assets/showcase/BedRoom/bedroom-9.jpg'
-import imgbedroom10 from '../assets/showcase/BedRoom/bedroom-10.jpg'
-import imgbedroom11 from '../assets/showcase/BedRoom/bedroom-11.jpg'
-import imgbedroom12 from '../assets/showcase/BedRoom/bedroom-12.jpg'
+import imgBedroom1 from '../assets/showcase/BedRoom/bedroom-1.jpg';
+import imgbedroom2 from '../assets/showcase/BedRoom/bedroom-2.jpg';
+import imgbedroom3 from '../assets/showcase/BedRoom/bedroom-3.jpg';
+import imgbedroom4 from '../assets/showcase/BedRoom/bedroom-4.jpg';
+import imgbedroom5 from '../assets/showcase/BedRoom/bedroom-5.jpg';
+import imgbedroom6 from '../assets/showcase/BedRoom/bedroom-6.jpg';
+import imgbedroom7 from '../assets/showcase/BedRoom/bedroom-7.jpg';
+import imgbedroom8 from '../assets/showcase/BedRoom/bedroom-8.jpg';
+import imgbedroom9 from '../assets/showcase/BedRoom/bedroom-9.jpg';
+import imgbedroom10 from '../assets/showcase/BedRoom/bedroom-10.jpg';
+import imgbedroom11 from '../assets/showcase/BedRoom/bedroom-11.jpg';
+import imgbedroom12 from '../assets/showcase/BedRoom/bedroom-12.jpg';
 
 import imgKitchen2 from '../assets/showcase/Kitchen/kitchen-2.jpg';
 
-import imgkitchen3 from '../assets/showcase/Kitchen/Kitchen-3.jpg'
-import imgkitchen4 from '../assets/showcase/Kitchen/Kitchen-4.jpg'
-import imgkitchen5 from '../assets/showcase/Kitchen/Kitchen-5.jpg'
-import imgkitchen6 from '../assets/showcase/Kitchen/Kitchen-6.jpg'
-import imgkitchen7 from '../assets/showcase/Kitchen/Kitchen-7.jpg'
-import imgkitchen8 from '../assets/showcase/Kitchen/Kitchen-8.jpg'
-import imgkitchen9 from '../assets/showcase/Kitchen/Kitchen-9.jpg'
-import imgkitchen10 from '../assets/showcase/Kitchen/Kitchen-10.jpg'
+import imgkitchen3 from '../assets/showcase/Kitchen/Kitchen-3.jpg';
+import imgkitchen4 from '../assets/showcase/Kitchen/Kitchen-4.jpg';
+import imgkitchen5 from '../assets/showcase/Kitchen/Kitchen-5.jpg';
+import imgkitchen6 from '../assets/showcase/Kitchen/Kitchen-6.jpg';
+import imgkitchen7 from '../assets/showcase/Kitchen/Kitchen-7.jpg';
+import imgkitchen8 from '../assets/showcase/Kitchen/Kitchen-8.jpg';
+import imgkitchen9 from '../assets/showcase/Kitchen/Kitchen-9.jpg';
+import imgkitchen10 from '../assets/showcase/Kitchen/Kitchen-10.jpg';
 
 import imgDining1 from '../assets/showcase/DiningRoom/Dining-1.jpg';
 
-import imgdining2 from '../assets/showcase/DiningRoom/Dining-2.jpg'
-import imgdining3 from '../assets/showcase/DiningRoom/Dining-3.jpg'
-import imgdining4 from '../assets/showcase/DiningRoom/Dining-4.jpg'
-import imgdining5 from '../assets/showcase/DiningRoom/Dining-5.jpg'
-import imgdining6 from '../assets/showcase/DiningRoom/Dining-6.jpg'
-import imgdining7 from '../assets/showcase/DiningRoom/Dining-7.jpg'
-import imgdining8 from '../assets/showcase/DiningRoom/Dining-8.jpg'
-import imgdining9 from '../assets/showcase/DiningRoom/Dining-9.jpg'
-import imgdining10 from '../assets/showcase/DiningRoom/Dining-10.jpg'
+import imgdining2 from '../assets/showcase/DiningRoom/Dining-2.jpg';
+import imgdining3 from '../assets/showcase/DiningRoom/Dining-3.jpg';
+import imgdining4 from '../assets/showcase/DiningRoom/Dining-4.jpg';
+import imgdining5 from '../assets/showcase/DiningRoom/Dining-5.jpg';
+import imgdining6 from '../assets/showcase/DiningRoom/Dining-6.jpg';
+import imgdining7 from '../assets/showcase/DiningRoom/Dining-7.jpg';
+import imgdining8 from '../assets/showcase/DiningRoom/Dining-8.jpg';
+import imgdining9 from '../assets/showcase/DiningRoom/Dining-9.jpg';
+import imgdining10 from '../assets/showcase/DiningRoom/Dining-10.jpg';
 
 import imgStair1 from '../assets/showcase/Stair/Stair-1.jpg';
-import imgStair2 from '../assets/showcase/Stair/Stair-2.jpg'
-import imgStair3 from '../assets/showcase/Stair/Stair-3.jpg'
-import imgStair4 from '../assets/showcase/Stair/Stair-4.jpg'
-import imgStair5 from '../assets/showcase/Stair/Stair-5.jpg'
-import imgStair6 from '../assets/showcase/Stair/Stair-6.jpg'
-import imgStair7 from '../assets/showcase/Stair/Stair-7.jpg'
-import imgStair8 from '../assets/showcase/Stair/Stair-8.jpg'
-import imgStair9 from '../assets/showcase/Stair/Stair-9.jpg'
-import imgStair10 from '../assets/showcase/Stair/Stair-10.jpg'
-import imgStair11 from '../assets/showcase/Stair/Stair-11.jpg'
+import imgStair2 from '../assets/showcase/Stair/Stair-2.jpg';
+import imgStair3 from '../assets/showcase/Stair/Stair-3.jpg';
+import imgStair4 from '../assets/showcase/Stair/Stair-4.jpg';
+import imgStair5 from '../assets/showcase/Stair/Stair-5.jpg';
+import imgStair6 from '../assets/showcase/Stair/Stair-6.jpg';
+import imgStair7 from '../assets/showcase/Stair/Stair-7.jpg';
+import imgStair8 from '../assets/showcase/Stair/Stair-8.jpg';
+import imgStair9 from '../assets/showcase/Stair/Stair-9.jpg';
+import imgStair10 from '../assets/showcase/Stair/Stair-10.jpg';
+import imgStair11 from '../assets/showcase/Stair/Stair-11.jpg';
 
 const allImages = [
   { src: img3D1, category: '3D' },

@@ -58,6 +58,37 @@ function Architech() {
               desc: 'Creating sustainable outdoor environments that blend beauty and function.',
               icon: '🌳',
             },
+            {
+              title: '3D Visualization',
+              desc: 'Bringing your ideas to life with photorealistic 3D renders and walkthroughs.',
+              icon: '🧱',
+            },
+            {
+              title: 'Architectural Drawing',
+              desc: 'Detailed technical drawings that serve as the blueprint for precise execution.',
+              icon: '📐',
+            },
+            {
+              title: 'Construction Management',
+              desc: 'Overseeing construction projects to ensure quality, budget, and timely delivery.',
+              icon: '🏗️',
+            },
+            {
+              title: 'Interior Design',
+              desc: 'Designing functional and stylish interiors tailored to your needs and taste.',
+              icon: '🛋️',
+            },
+            {
+              title: 'Renovation & Remodeling',
+              desc: 'Modernizing spaces with smart upgrades and thoughtful redesigns.',
+              icon: '🔧',
+            },
+            {
+              title: 'Urban Planning',
+              desc: 'Developing strategic layouts for communities that support growth and sustainability.',
+              icon: '🌆',
+            }
+            
           ].map((item, index) => (
             <motion.div
               key={index}

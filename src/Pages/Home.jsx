@@ -25,10 +25,10 @@ function Home() {
                             initial={{ opacity: 0, scale: 0.95 }}
                             animate={{ opacity: 1, scale: 1 }}
                             transition={{ delay: 0.3, duration: 1 }}
-                            className="text-5xl font-extrabold leading-tight text-gray-300 shadow-md md:text-6xl lg:text-7xl"
+                            className="text-4xl font-extrabold leading-tight text-gray-300 shadow-md md:text-4xl lg:text-5xl"
                         >
-                            WE <span className="text-[#c0a06c]">SHAPE</span> YOUR{" "}
-                            <span className="text-[#c0a06c]">SPACES</span>
+                            BUILD <span className="text-[#c0a06c]">YOUR DREAMS</span> WITH{" "}  <br />
+                            <span className="text-[#c0a06c]">GRHAM BUILDERS</span>
                         </motion.p>
 
                         <motion.p

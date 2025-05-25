@@ -43,8 +43,7 @@ import imgbedroom10 from '../assets/showcase/BedRoom/bedroom-10.jpg';
 import imgbedroom11 from '../assets/showcase/BedRoom/bedroom-11.jpg';
 import imgbedroom12 from '../assets/showcase/BedRoom/bedroom-12.jpg';
 
-import imgKitchen2 from '../assets/showcase/Kitchen/kitchen-2.jpg';
-
+import imgKitchen2 from '../assets/showcase/Kitchen/Kitchen-2.jpg';
 import imgkitchen3 from '../assets/showcase/Kitchen/Kitchen-3.jpg';
 import imgkitchen4 from '../assets/showcase/Kitchen/Kitchen-4.jpg';
 import imgkitchen5 from '../assets/showcase/Kitchen/Kitchen-5.jpg';
